@@ -125,4 +125,41 @@
 #         f.write("\n")
 
 
+# #join function
+
+# l=["Aaditya","kunal","manoj","Akshay","ritesh"]
+
+# sentence=' and '.join(l)
+# print(sentence)
+
+
+
+
+# #filter function
+
+# def greater_than_10(num):
+#     if num>10:
+#         return True
+#     else:
+#         return False
+
+# # using lambda functions
+
+# greater_than_25= lambda num : num >25
+
+# lst=[1,2,6,52,85,6,54,24,10]
+
+# print(list(filter(greater_than_10,lst)))
+# print(list(filter(greater_than_25,lst)))
+
+
+
+# from functools import reduce
+
+# sum= lambda a,b:a+b
+
+# l=[1,2,3,4,5]
+# value=reduce(sum,l)
+# print(value)
+
 
