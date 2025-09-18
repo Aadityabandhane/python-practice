@@ -163,3 +163,21 @@
 # print(value)
 
 
+
+
+# name=input("enter your name:")
+# marks=input("enter your marks:")
+# phone=input("enter your phone no :")
+
+# info=(f"my name is {name} and i got {marks}% in 12th standerd, my phone no. is {phone}")
+# print(info)
+
+
+
+# l=[1,5,2,3,6,5,22,5,66,222,55,5,66,90]
+
+# a=filter(lambda a : a%5==0,l)
+# print(list(a))
+
+
+
